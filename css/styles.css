@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header.jumbotron {
+    background: url('img/header-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+}
+
+header h1, header p {
+    margin: 0;
+}
+
+section {
+    padding: 50px 0;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
